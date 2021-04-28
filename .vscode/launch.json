@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootServicioConfigServerApplication<springboot-servicio-config-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.formacionbdi.springboot.app.config.SpringbootServicioConfigServerApplication",
+            "projectName": "springboot-servicio-config-server",
+            "args": ""
+        }
+    ]
+}
