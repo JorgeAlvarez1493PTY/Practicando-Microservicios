@@ -9,6 +9,46 @@
             "mainClass": "com.formacionbdi.springboot.app.config.SpringbootServicioConfigServerApplication",
             "projectName": "springboot-servicio-config-server",
             "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootServicioEurekaServerApplication<springboot-servicio-eureka-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.formacionbdi.springboot.app.eureka.SpringbootServicioEurekaServerApplication",
+            "projectName": "springboot-servicio-eureka-server",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootServicioProductosApplication<springboot-servicio-productos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.formacionbdi.springboot.app.productos.SpringbootServicioProductosApplication",
+            "projectName": "springboot-servicio-productos",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootServicioItemApplication<springboot-servicio-item>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.formacionbdi.springboot.app.item.SpringbootServicioItemApplication",
+            "projectName": "springboot-servicio-item",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootServicioZuulServerApplication<springboot-servicio-zuul-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.formacionbdi.springboot.app.zuul.SpringbootServicioZuulServerApplication",
+            "projectName": "springboot-servicio-zuul-server",
+            "args": ""
         }
     ]
 }
